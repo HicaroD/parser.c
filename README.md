@@ -1,4 +1,4 @@
-# Recursive descent parser
+# parser.c
 
 Simple implementation of a recursive descent parser for expressions.
 
